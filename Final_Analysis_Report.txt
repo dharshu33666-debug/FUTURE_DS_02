@@ -1,0 +1,44 @@
+
+CUSTOMER RETENTION & CHURN ANALYSIS
+===================================
+
+PROJECT: Future Interns - Task 2
+
+1. PROJECT OVERVIEW
+This project analyzes customer data to identify
+churn patterns and customer retention trends.
+
+2. DATASET SUMMARY
+Total Customers: 7043
+Churned Customers: 1869
+Retained Customers: 5174
+
+3. KEY PERFORMANCE INDICATORS
+Churn Rate: 26.54%
+Retention Rate: 73.46%
+
+4. TOP CHURN REASONS
+Churn Reason
+Attitude of support person                   192
+Competitor offered higher download speeds    189
+Competitor offered more data                 162
+Don't know                                   154
+Competitor made better offer                 140
+
+5. BUSINESS RECOMMENDATIONS
+- Improve customer satisfaction.
+- Provide special offers to new customers.
+- Improve customer support.
+- Encourage long-term subscriptions.
+- Monitor customer churn regularly.
+
+6. TOOLS USED
+Python
+Pandas
+Matplotlib
+Seaborn
+Google Colab
+
+7. CONCLUSION
+The analysis identifies customer churn patterns
+and provides recommendations to improve retention.
